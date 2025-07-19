@@ -1,4 +1,17 @@
+# 💫 Hi 👋, I'm Purnima yadav
+**A passionate frontend devloper (fresher)
 
+Email Me 👉 ✉️ **purnimayadavyaadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+- 🎓 Completed my BCA from DPG Degree College, MDU Rohtak 🏫
+- 🔭 **I’m currently working on:** real-world frontend project using React js
+- 🌱 **I’m currently learning:** Enter your tech here
+- 🤔 **I’m looking for :** frontend work
+- 😊 I enjoy building clean,responsive,and user-friendly web interfaces using HTML,CSS,JavaScript and react
+- 📫 **How to reach me:** Enter your purnimayadavyaadav@gmail.com here
+  
+
+
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purnima-yadav-70a52832b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purnimayadavyaadav@gmail.com) 
 
