@@ -13,7 +13,42 @@ Email Me 👉 ✉️ **purnimayadavyaadav@gmail.com** For Collaboration/Project 
 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purnima-yadav-70a52832b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purnimayadavyaadav@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purnima-yadav-
+70a52832b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purnimayadavyaadav@gmail.com) 
+
+---
+## Projects
+
+💻 Amazon Clone
+
+Built a responsive e-commerce website using HTML and CSS
+
+Designed homepage, navbar, product cards, and footer like Amazon
+
+Focused on clean layout and user-friendly interface
+
+Hosted on GitHub for version control and sharing
+---
+📖 Recipe Book Website
+
+Designed a clean recipe layout using HTML and CSS
+
+Added multiple recipe cards with titles, images, and short descriptions
+
+Used consistent styling for better user experience
+
+Practiced semantic HTML for readability
+---
+✊ Rock Paper Scissor Game
+
+Created an interactive game using HTML, CSS, and JavaScript
+
+Implemented logic for user input vs computer choice
+
+Displayed real-time score and game result
+
+Designed responsive UI for all screen sizes
+---
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
