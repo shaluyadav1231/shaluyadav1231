@@ -4,7 +4,6 @@
 Email Me 👉 ✉️ **purnimayadavyaadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🎓 Completed my BCA from DPG Degree College, MDU Rohtak 🏫
 - 🔭 **I’m currently working on:** real-world frontend project using React js
-- 🌱 **I’m currently learning:** Enter your tech here
 - 🤔 **I’m looking for :** frontend work
 - 😊 I enjoy building clean,responsive,and user-friendly web interfaces using HTML,CSS,JavaScript and react
 - 📫 **How to reach me:** Enter your purnimayadavyaadav@gmail.com here
