@@ -28,26 +28,36 @@ Focused on clean layout and user-friendly interface
 
 Hosted on GitHub for version control and sharing
 ---
-📖 Recipe Book Website
+e-commerce Website
 
-Designed a clean recipe layout using HTML and CSS
+Built using React.js and Tailwind CSS with responsive design, smooth animations, and modern UI
 
-Added multiple recipe cards with titles, images, and short descriptions
+ Implemented product listing, shopping cart, and interactive user interface for seamless shopping experience.
 
 Used consistent styling for better user experience
 
-Practiced semantic HTML for readability
 ---
-✊ Rock Paper Scissor Game
+my-portfolio
 
-Created an interactive game using HTML, CSS, and JavaScript
+Created an interactive portfolio website
 
-Implemented logic for user input vs computer choice
+Built using React.js and Tailwind CSS, interactive and responsive portfolio 
 
-Displayed real-time score and game result
+showcasing projects in card format, with smooth animations and user-friendly navigation
 
 Designed responsive UI for all screen sizes
 ---
+docs-mini-app
+
+Docs Mini App is a lightweight React + Vite based web application for displaying documentation or content pages.
+
+The source code is available on GitHub, built with React, Tailwind CSS, ESLint, and Vite.
+
+It is modular and easy to adapt for documentation sites or knowledge bases.
+
+
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
